@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ortsion.github.io/Shemuel-project/static/css/main.090c97be.css",
-    "main.js": "/Ortsion.github.io/Shemuel-project/static/js/main.e0cb3424.js",
-    "static/js/787.640d5284.chunk.js": "/Ortsion.github.io/Shemuel-project/static/js/787.640d5284.chunk.js",
-    "index.html": "/Ortsion.github.io/Shemuel-project/index.html",
-    "main.090c97be.css.map": "/Ortsion.github.io/Shemuel-project/static/css/main.090c97be.css.map",
-    "main.e0cb3424.js.map": "/Ortsion.github.io/Shemuel-project/static/js/main.e0cb3424.js.map",
-    "787.640d5284.chunk.js.map": "/Ortsion.github.io/Shemuel-project/static/js/787.640d5284.chunk.js.map"
+    "main.css": "/Shemuel-project/static/css/main.090c97be.css",
+    "main.js": "/Shemuel-project/static/js/main.cab28ba8.js",
+    "static/js/787.640d5284.chunk.js": "/Shemuel-project/static/js/787.640d5284.chunk.js",
+    "index.html": "/Shemuel-project/index.html",
+    "main.090c97be.css.map": "/Shemuel-project/static/css/main.090c97be.css.map",
+    "main.cab28ba8.js.map": "/Shemuel-project/static/js/main.cab28ba8.js.map",
+    "787.640d5284.chunk.js.map": "/Shemuel-project/static/js/787.640d5284.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.090c97be.css",
-    "static/js/main.e0cb3424.js"
+    "static/js/main.cab28ba8.js"
   ]
 }

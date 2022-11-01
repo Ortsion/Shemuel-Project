@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//:Ortsion.github.io/Shemuel-project/static/css/main.090c97be.css",
+    "main.js": "/http//:Ortsion.github.io/Shemuel-project/static/js/main.d14da388.js",
+    "static/js/787.640d5284.chunk.js": "/http//:Ortsion.github.io/Shemuel-project/static/js/787.640d5284.chunk.js",
+    "index.html": "/http//:Ortsion.github.io/Shemuel-project/index.html",
+    "main.090c97be.css.map": "/http//:Ortsion.github.io/Shemuel-project/static/css/main.090c97be.css.map",
+    "main.d14da388.js.map": "/http//:Ortsion.github.io/Shemuel-project/static/js/main.d14da388.js.map",
+    "787.640d5284.chunk.js.map": "/http//:Ortsion.github.io/Shemuel-project/static/js/787.640d5284.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.090c97be.css",
+    "static/js/main.d14da388.js"
+  ]
+}
